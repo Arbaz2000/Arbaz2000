@@ -105,11 +105,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arbaz2000&show_icons=true&locale=en" alt="arbaz2000" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arbaz2000&theme=dark" alt="arbaz2000" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arbaz2000&theme=dark" alt="arbaz2000" />
+</p>
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arbaz2000&theme=dark" alt="arbaz2000" /></p>
 
 <h3 align="left">Check out my Portfolio:</h3>
 <p align="left">
