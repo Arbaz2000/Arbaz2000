@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm ARBAZ KHAN</h1>
 <h3 align="center">A Passionate Developer from India</h3>
-<h3 align="left">Check out my Portfolio:</h3>
-<p align="left">
+<h3 align="center">Check out my Portfolio:
+
   <a href="https://master.d20yn9tezep4uq.amplifyapp.com" target="_blank">
     🌐 Visit My Portfolio
   </a>
-</p>
+
+</h3>
+
+
+
+<br/>
 
 - 🔭 I’m currently working on [Pickkro_official](https://github.com/Arbaz2000/Pickkro-web)
 
@@ -29,9 +34,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Arbaz2000&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Arbaz2000&limit=5&theme=dark&combine_all_yearly_contributions=true)
