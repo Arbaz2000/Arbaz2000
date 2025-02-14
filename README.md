@@ -105,9 +105,9 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=arbaz2000&show_icons=true&locale=en" alt="arbaz2000" />
 
-<p align="center">
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arbaz2000" alt="arbaz2000" />
-</p>
+
 
 
 
