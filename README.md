@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ARBAZ KHAN</h1>
 <h3 align="center">A Passionate Developer from India</h3>
 <h3 align="center">Check out my Portfolio:
-https://meet.google.com/gxd-jiyc-seb
+
   <a href="https://master.d20yn9tezep4uq.amplifyapp.com" target="_blank">
     🌐 Visit My Portfolio
   </a>
